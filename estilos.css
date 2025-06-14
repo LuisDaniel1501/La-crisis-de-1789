@@ -1,0 +1,79 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fdf6f0;
+}
+
+header {
+  background-color: #8b0000;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header p {
+  margin: 5px 0 0;
+  font-size: 1.1em;
+}
+
+main {
+  padding: 30px;
+  background-color: white;
+  max-width: 900px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+ h1 {
+  color: white;
+}
+
+ h2 {
+  color: #8b0000;
+}
+
+ h3 {
+  color: #8b0000;
+}
+
+
+ul {
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #eee;
+  margin-top: 30px;
+}
+.Crisis-económica{
+  background-image: url("https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15102797/image/01a65ac276baaac7976d870900aaffee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250608T202122Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b4807e6f50b64aa29fb5920a636ecd6f382bc5f1415f28f44a191e02b6f3735e");
+ background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 300px;
+}
+.Crisis-social{
+  background-image: url("https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15102727/image/9d46aca91274ee41699eb68d63d5880a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20250608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250608T202122Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=16a12beab63c53b2048568f2f408a866a41f33b4a7bf8f10ef940aba591a11d3");
+ background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 300px;
+
+}
+.Crisis-política{
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFyR23t9F44jJIgsrzChn-3LIv43IzG6X2KthA166B3DQqehrs3S2rKDEmabbLplEQqS8eakgksuCpdrWOfvDt3bypSrUftj2ZgxrsEi78DELEJKfzHYsHSksmU49hyphenhyphensoCYFVV2wZ08QE/s640/juramento+juego+de+la+pelota+3.jpg");
+ background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 300px;
+
+}
+li{
+  color:white;
+}
+
+
